@@ -1,0 +1,5 @@
+module.exports = {
+	ADD_NOTE: 'ADD_NOTE',
+	FETCH_NOTE: 'FETCH_NOTE',
+	REMOVE_NOTE: 'REMOVE_NOTE'
+} 

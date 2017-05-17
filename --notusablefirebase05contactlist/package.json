@@ -1,0 +1,23 @@
+{
+  "name": "05contactlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "flux": "*",
+    "babel-core": "5.8.*",
+    "babel-loader": "5.3.*",
+    "webpack": "1.12.*"
+  },
+  "dependencies": {
+    "firebase": "^3.9.0",
+    "react": "*",
+    "react-dom": "*"
+  }
+}

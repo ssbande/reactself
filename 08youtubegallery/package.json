@@ -1,0 +1,22 @@
+{
+  "name": "youtubegallery",
+  "version": "1.0.0",
+  "description": "Simple youtube gallery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*"
+  },
+  "dependencies":{
+    "react": "15.5.4",
+    "react-dom": "15.5.4"
+  }
+}
