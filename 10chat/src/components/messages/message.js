@@ -6,7 +6,7 @@ export default class Message extends Component{
 		let formattedTime = this.formatTimeStamp(message.timeStamp)
 		return (
 			<div className="message">
-				<strong>{this.props.user}</strong> {formattedTime} - {message.text}
+				<strong>{message.user}</strong> {formattedTime} - {message.text}
 			</div>
 		)
 	}
